@@ -45,12 +45,11 @@ const config = {
       '/codeblock', // add trailing slash if enabled above
     ],
     links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
-            { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' },
-            { text: 'AWS Group', link: 'https://www.facebook.com/groups/awskr' }],
+            { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://cloudmap.cloud'>sdk</a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
+      "<a href='https://cloudmap.cloud'>cloudMap</a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
   },
   siteMetadata: {
     title: 'Cloud Map | sdk',
