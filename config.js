@@ -48,7 +48,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://cloudmap.cloud'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<a href='https://cloudmap.cloud'>graphql </a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
   },
   siteMetadata: {
     title: 'Cloud Map | sdk',
