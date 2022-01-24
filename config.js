@@ -39,7 +39,9 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/gcp',
+      '/aws',
+      '/azure',
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
