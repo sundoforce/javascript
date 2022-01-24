@@ -1,15 +1,9 @@
 ---
-title: "AWS"
+title: "Amazon Web Service"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-# GCP
+# Amazon Web Service (AWS)
 Heading 1 text
 
-# Azure
-
-# AWS
-
-## Link
-* cloud-map: [cloud-map](https://github.com/sundoforce/cloud-map)
