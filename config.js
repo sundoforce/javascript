@@ -45,6 +45,9 @@ const config = {
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
+      '/gcp', // add trailing slash if enabled above
+      '/aws', // add trailing slash if enabled above
+      '/azure', // add trailing slash if enabled above
     ],
     links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
             { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
@@ -55,7 +58,7 @@ const config = {
   },
   siteMetadata: {
     title: 'Cloud Map | sdk',
-    description: 'Documentation built with mdx. Powering cloudmap.cloud ',
+    description: 'Documentation built with mdx. Powering https://sdk.xyz',
     ogImage: null,
     docsLocation: 'https://github.com/sundoforce/cloudmap/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
