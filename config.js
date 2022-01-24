@@ -44,13 +44,13 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
-    links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' }],
-    links: [{ text: 'AWS Group', link: 'https://www.facebook.com/groups/awskr' }],
+    links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
+            { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' },
+            { text: 'AWS Group', link: 'https://www.facebook.com/groups/awskr' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://cloudmap.cloud'>graphql </a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
+      "<a href='https://cloudmap.cloud'>sdk</a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
   },
   siteMetadata: {
     title: 'Cloud Map | sdk',
