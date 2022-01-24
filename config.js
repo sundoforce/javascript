@@ -14,16 +14,16 @@ const config = {
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://sdk.xyz" target="_blank" rel="noopener">
+		    <a href="https://www.facebook.com/groups/gcpkr" target="_blank" rel="facebook">
 		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
+		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Facebook'}/>
 		      </div>
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
+		    <a href="https://www.facebook.com/groups/azurekr" target="_blank" rel="facebook">
 		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
+		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'FaceBook'}/>
 		      </div>
 		    </a>
 		  </li>`,
@@ -44,7 +44,9 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'sdk', link: 'https://sdk.xyz' }],
+    links: [{ text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
+    links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' }],
+    links: [{ text: 'AWS Group', link: 'https://www.facebook.com/groups/awskr' }],
     frontline: false,
     ignoreIndex: true,
     title:
