@@ -1,9 +1,9 @@
 ---
-title: "Amazon Web Service"
+title: "problem-solving"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-# Amazon Web Service (AWS)
+# problem-solving
 Heading 1 text
 
