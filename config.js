@@ -1,16 +1,16 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://cloudmap.cloud',
+    siteUrl: 'https://javascript.ac',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://brand.svg',
-    logoLink: 'https://cloudmap.cloud',
+    logoLink: 'https://javascript.ac',
     title:
       "<a href='https://cloudmap.cloud/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/sundoforce/cloudmap',
+    githubUrl: 'https://github.com/sundoforce/javascript',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -38,13 +38,12 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/gcp',
-      '/aws',
-      '/azure',
+      '/introduction',
+      '/data-structures', // add trailing slash if enabled above
+      '/algorithm',
+      '/problem-solving',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
       '/gcp', // add trailing slash if enabled above
       '/aws', // add trailing slash if enabled above
       '/azure', // add trailing slash if enabled above
@@ -60,7 +59,7 @@ const config = {
     title: 'Cloud Map | sdk',
     description: 'Documentation built with mdx. Powering https://sdk.xyz',
     ogImage: null,
-    docsLocation: 'https://github.com/sundoforce/cloudmap/tree/master/content',
+    docsLocation: 'https://github.com/sundoforce/javascript/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
