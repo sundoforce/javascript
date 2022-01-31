@@ -9,7 +9,7 @@ const config = {
     logo: 'https://brand.svg',
     logoLink: 'https://javascript.ac',
     title:
-      "<a href='https://cloudmap.cloud/'></a>",
+      "<a href='https://javascript.ac/'>Javascript</a>",
     githubUrl: 'https://github.com/sundoforce/javascript',
     helpUrl: '',
     tweetText: '',
