@@ -44,9 +44,9 @@ const config = {
       '/problem-solving',
     ],
     collapsedNav: [
-      '/gcp', // add trailing slash if enabled above
-      '/aws', // add trailing slash if enabled above
-      '/azure', // add trailing slash if enabled above
+      '/data-structures', // add trailing slash if enabled above
+      '/algorithm', // add trailing slash if enabled above
+      '/problem-solving', // add trailing slash if enabled above
     ],
     links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
             { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
