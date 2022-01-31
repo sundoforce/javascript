@@ -9,7 +9,7 @@ const config = {
     logo: 'https://brand.svg',
     logoLink: 'https://javascript.ac',
     title:
-      "<a href='https://cloudmap.cloud/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+      "<a href='https://cloudmap.cloud/'></a>",
     githubUrl: 'https://github.com/sundoforce/javascript',
     helpUrl: '',
     tweetText: '',
