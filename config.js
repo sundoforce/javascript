@@ -48,8 +48,10 @@ const config = {
       '/algorithm', // add trailing slash if enabled above
       '/problem-solving', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
-            { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr' }],
+    links: [{ text: 'Amazon Group', link: 'https://www.facebook.com/groups/awskr'}, 
+            { text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
+            { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr'},
+            { text: 'Terraform Group', link: 'https://www.facebook.com/groups/terraform'}],
     frontline: false,
     ignoreIndex: true,
     title:
