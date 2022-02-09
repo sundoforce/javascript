@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://brand.svg',
+    logo: 'https://cdn.svgporn.com/logos/javascript.svg',
     logoLink: 'https://javascript.ac',
     title:
       "<a href='https://javascript.ac/'>Javascript</a>",
