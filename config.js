@@ -44,6 +44,8 @@ const config = {
       '/problem-solving',
     ],
     collapsedNav: [
+      '/react',
+      '/nodejs',
       '/data-structures', // add trailing slash if enabled above
       '/algorithm', // add trailing slash if enabled above
       '/problem-solving', // add trailing slash if enabled above
@@ -55,10 +57,10 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://cloudmap.cloud'>cloudMap</a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
+      "<a href='https://cloud.sdk.xyz'>cloud</a><div class='greenCircle'></div><a href='https://javascript.ac'>Javascript</a>",
   },
   siteMetadata: {
-    title: 'Cloud Map | sdk',
+    title: 'Cloud | sdk',
     description: 'Documentation built with mdx. Powering https://sdk.xyz',
     ogImage: null,
     docsLocation: 'https://github.com/sundoforce/javascript/tree/master/content',
