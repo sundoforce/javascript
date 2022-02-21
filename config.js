@@ -69,8 +69,8 @@ const config = {
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Cloud Map',
-      short_name: 'CloudMap',
+      name: 'Cloud',
+      short_name: 'Cloud',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
