@@ -38,9 +38,10 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction',
+      '/you-dont-know',
       '/data-structures', // add trailing slash if enabled above
       '/algorithm',
+      '/react',
       '/problem-solving',
     ],
     collapsedNav: [
@@ -50,7 +51,7 @@ const config = {
       '/algorithm', // add trailing slash if enabled above
       '/problem-solving', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Amazon Group', link: 'https://www.facebook.com/groups/awskr'}, 
+    links: [{ text: 'Amazon Group', link: 'https://www.facebook.com/groups/awskr'},
             { text: 'Azure Group', link: 'https://www.facebook.com/groups/azurekr' },
             { text: 'GCP Group', link: 'https://www.facebook.com/groups/gcpkr'},
             { text: 'Terraform Group', link: 'https://www.facebook.com/groups/terraform'}],
