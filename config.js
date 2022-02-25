@@ -41,7 +41,6 @@ const config = {
       '/data-structures', // add trailing slash if enabled above
       '/algorithm',
       '/problem-solving',
-      '/node-js',
       '/react',
     ],
     collapsedNav: [
