@@ -38,11 +38,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/you-dont-know',
+      '/introduction',
       '/data-structures', // add trailing slash if enabled above
       '/algorithm',
-      '/react',
       '/problem-solving',
+      '/react',
     ],
     collapsedNav: [
       '/react',
