@@ -38,15 +38,13 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction',
       '/data-structures', // add trailing slash if enabled above
       '/algorithm',
       '/problem-solving',
+      '/node-js',
       '/react',
     ],
     collapsedNav: [
-      '/react',
-      '/nodejs',
       '/data-structures', // add trailing slash if enabled above
       '/algorithm', // add trailing slash if enabled above
       '/problem-solving', // add trailing slash if enabled above
